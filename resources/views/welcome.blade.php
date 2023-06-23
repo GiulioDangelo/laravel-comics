@@ -36,7 +36,7 @@
                 <li><img src="{{Vite::asset('resources/images/buy-comics-merchandise.png')}}" alt=""> <span>DC MERCHANDISE</span></li>
                 <li><img src="{{Vite::asset('resources/images/buy-comics-shop-locator.png')}}" alt=""> <span>SUBSCRIPTION</span></li>
                 <li><img src="{{Vite::asset('resources/images/buy-comics-subscriptions.png')}}" alt=""> <span>COMIC SHOP LOCATOR</span></li>
-                <li><img src="{{Vite::asset('resources/images/buy-dc-power-visa.svg" ')}}" class="visa" alt=""> <span>DC POWER VISA</span></li>
+                <li><img src="{{Vite::asset('resources/images/buy-dc-power-visa.svg')}}" class="visa" alt=""> <span>DC POWER VISA</span></li>
             </ul>
         </div>
 

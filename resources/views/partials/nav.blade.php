@@ -15,7 +15,7 @@
     
             <div class="right-nav">
                 <ul>
-                    <li>CHARACTERS</li>
+                    <li><a href="/characters">CHARACTERS</a></li>
                     <li>COMICS</li>
                     <li>MOVIES</li>
                     <li>TV</li>
