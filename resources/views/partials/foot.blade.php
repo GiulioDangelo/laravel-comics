@@ -49,5 +49,4 @@
         <img src="{{Vite::asset('resources/images/dc-logo-bg.png')}}" alt="">
     </div>
 
-    @include('partials.social')
 </div>

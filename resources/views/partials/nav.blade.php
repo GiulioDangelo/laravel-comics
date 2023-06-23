@@ -10,7 +10,7 @@
         <div class="nav">
 
             <div class="left-nav">
-                <img src="{{Vite::asset('resources/images/dc-logo-bg.png')}}" alt="">
+                <img src="{{Vite::asset('resources/images/dc-logo.png')}}" alt="">
             </div>
     
             <div class="right-nav">

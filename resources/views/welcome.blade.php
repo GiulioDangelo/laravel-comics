@@ -20,8 +20,8 @@
             <div class="content-main">
 
                 @foreach ($comics as $comic)
-                <div class="card">
-                    {{-- <div class="img-container"><img src="{{Vite::asset('resources/images/{{ $comic['thumb'] }}')}}" class="card-img"></div> --}}
+                <div class="cards">
+                    <div class="img-container"><img src="{{ Vite::asset($comic['thumb']) }}" alt="" class="card-img"> </div>
                     <span>{{ $comic['title'] }}</span>
                 </div>
                 @endforeach
@@ -42,6 +42,8 @@
 
 
 
-        @include('partials.foot')
+    @include('partials.foot')
+    @include('partials.social')
+
     </body>
 </html>
